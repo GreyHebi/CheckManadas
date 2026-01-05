@@ -1,5 +1,5 @@
-# Compiled class file
-*.class
+# Compiled data
+target
 
 # Log file
 *.log
@@ -9,6 +9,12 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+#IDEA
+.idea
+
+#Amplicode
+amplicode.xml
 
 # Package Files #
 *.jar
