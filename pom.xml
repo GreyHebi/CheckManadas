@@ -12,6 +12,7 @@
     <modules>
         <module>java_imperative</module>
         <module>java_custom</module>
+        <module>java_vavr</module>
     </modules>
     <packaging>pom</packaging>
 
