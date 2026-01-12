@@ -11,6 +11,7 @@
     <name>Проверка монад</name>
     <modules>
         <module>java_imperative</module>
+        <module>java_custom</module>
     </modules>
     <packaging>pom</packaging>
 
